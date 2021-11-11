@@ -1,0 +1,9 @@
+[submodule "BGMRPCModule/BGMRPC"]
+	path = BGMRPCModule/BGMRPC
+	url = https://github.com/SeekAWayOut/BGMRPC.git
+[submodule "CallGraph"]
+	path = CallGraph
+	url = https://github.com/SeekAWayOut/CallGraph.git
+[submodule "cmake"]
+	path = cmake
+	url = https://github.com/SeekAWayOut/BGStudio-cmake.git
