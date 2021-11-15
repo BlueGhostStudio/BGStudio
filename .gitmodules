@@ -7,6 +7,7 @@
 [submodule "cmake"]
 	path = cmake
 	url = https://github.com/SeekAWayOut/BGStudio-cmake.git
-[submodule "BGMRPCModule/Deplay"]
-	path = BGMRPCModule/Deplay
+
+[submodule "BGMRPCModule/Deploy"]
+	path = BGMRPCModule/Deploy
 	url = https://github.com/SeekAWayOut/BGMRPCDeploy.git
