@@ -11,3 +11,12 @@
 [submodule "BGMRPCModule/Deploy"]
 	path = BGMRPCModule/Deploy
 	url = https://github.com/SeekAWayOut/BGMRPCDeploy.git
+[submodule "BGMRPCModule/Apps/common"]
+	path = BGMRPCModule/Apps/common
+	url = https://github.com/SeekAWayOut/BGMRPCApps-Common.git
+[submodule "BGMRPCModule/Apps/account"]
+	path = BGMRPCModule/Apps/account
+	url = https://github.com/SeekAWayOut/BGMRPCApps-Account.git
+[submodule "BGMRPCModule/Apps/cms"]
+	path = BGMRPCModule/Apps/cms
+	url = https://github.com/SeekAWayOut/BGMRPCApps-CMS.git

@@ -4,3 +4,4 @@ project(BGMRPCModule)
 
 add_subdirectory(BGMRPC)
 add_subdirectory(Deploy)
+add_subdirectory(Apps)
