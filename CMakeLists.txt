@@ -4,3 +4,4 @@ project(BGStudio LANGUAGES CXX)
 
 add_subdirectory(BGMRPCModule)
 add_subdirectory(CallGraph)
+add_subdirectory(BGCMSProject)

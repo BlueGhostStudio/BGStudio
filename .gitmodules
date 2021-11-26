@@ -20,3 +20,6 @@
 [submodule "BGMRPCModule/Apps/cms"]
 	path = BGMRPCModule/Apps/cms
 	url = https://github.com/SeekAWayOut/BGMRPCApps-CMS.git
+[submodule "BGCMSProject"]
+	path = BGCMSProject
+	url = https://github.com/SeekAWayOut/BGCMSProject.git
