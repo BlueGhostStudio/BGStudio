@@ -1,26 +1,26 @@
 [submodule "BGMRPCModule/BGMRPC"]
 	path = BGMRPCModule/BGMRPC
-	url = https://github.com/SeekAWayOut/BGMRPC.git
+	url = https://github.com/BlueGhostStudio/BGMRPC.git
 [submodule "CallGraph"]
 	path = CallGraph
-	url = https://github.com/SeekAWayOut/CallGraph.git
+	url = https://github.com/BlueGhostStudio/CallGraph.git
 [submodule "cmake"]
 	path = cmake
-	url = https://github.com/SeekAWayOut/BGStudio-cmake.git
+	url = https://github.com/BlueGhostStudio/BGStudio-cmake.git
 
 [submodule "BGMRPCModule/Deploy"]
 	path = BGMRPCModule/Deploy
-	url = https://github.com/SeekAWayOut/BGMRPCDeploy.git
+	url = https://github.com/BlueGhostStudio/BGMRPCDeploy.git
 [submodule "BGMRPCModule/Apps/common"]
 	path = BGMRPCModule/Apps/common
-	url = https://github.com/SeekAWayOut/BGMRPCApps-Common.git
+	url = https://github.com/BlueGhostStudio/BGMRPCApps-Common.git
 [submodule "BGMRPCModule/Apps/account"]
 	path = BGMRPCModule/Apps/account
-	url = https://github.com/SeekAWayOut/BGMRPCApps-Account.git
+	url = https://github.com/BlueGhostStudio/BGMRPCApps-Account.git
 [submodule "BGMRPCModule/Apps/cms"]
 	path = BGMRPCModule/Apps/cms
-	url = https://github.com/SeekAWayOut/BGMRPCApps-CMS.git
+	url = https://github.com/BlueGhostStudio/BGMRPCApps-CMS.git
 [submodule "BGCMSProject"]
 	path = BGCMSProject
-	url = https://github.com/SeekAWayOut/BGCMSProject.git
+	url = https://github.com/BlueGhostStudio/BGCMSProject.git
 
