@@ -24,3 +24,9 @@
 	path = BGCMSProject
 	url = https://github.com/BlueGhostStudio/BGCMSProject.git
 
+[submodule "BGSTDWEB"]
+	path = BGSTDWEB
+	url = https://github.com/BlueGhostStudio/BlueGhostStudio.github.io.git
+[submodule "BG.js"]
+	path = BG.js
+	url = https://github.com/BlueGhostStudio/BG.js.git
