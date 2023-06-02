@@ -1,5 +1,8 @@
 CMakeLists.txt.user
 
+# backup
+*.bak
+
 # Prerequisites
 *.d
 

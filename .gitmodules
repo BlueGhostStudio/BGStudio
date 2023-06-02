@@ -30,3 +30,6 @@
 [submodule "BG.js"]
 	path = BG.js
 	url = https://github.com/BlueGhostStudio/BG.js.git
+[submodule "BGMRPCModule/Apps/todo"]
+	path = BGMRPCModule/Apps/todo
+	url = https://github.com/BlueGhostStudio/BGMRPCApps-Todo.git
