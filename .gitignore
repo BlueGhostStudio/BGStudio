@@ -1,4 +1,7 @@
 CMakeLists.txt.user
+CMakeLists.txt.user.*
+
+*.code-workspace
 
 # backup
 *.bak
