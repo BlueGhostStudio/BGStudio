@@ -33,3 +33,6 @@
 [submodule "BGMRPCModule/Apps/todo"]
 	path = BGMRPCModule/Apps/todo
 	url = https://github.com/BlueGhostStudio/BGMRPCApps-Todo.git
+[submodule "BGMRPCModule/BGMRPCConsole"]
+	path = BGMRPCModule/BGMRPCConsole
+	url = https://github.com/BlueGhostStudio/BGMRPCConsole.git
