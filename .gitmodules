@@ -24,3 +24,6 @@
 [submodule "BGMRPCModule/BGMRPCConsole"]
 	path = BGMRPCModule/BGMRPCConsole
 	url = https://github.com/BlueGhostStudio/BGMRPCConsole.git
+[submodule "BGMRPCModule/Apps"]
+	path = BGMRPCModule/Apps
+	url = https://github.com/BlueGhostStudio/BGMRPCApps.git
