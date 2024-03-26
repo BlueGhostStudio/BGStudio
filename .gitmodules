@@ -11,15 +11,6 @@
 [submodule "BGMRPCModule/Deploy"]
 	path = BGMRPCModule/Deploy
 	url = https://github.com/BlueGhostStudio/BGMRPCDeploy.git
-[submodule "BGMRPCModule/Apps/common"]
-	path = BGMRPCModule/Apps/common
-	url = https://github.com/BlueGhostStudio/BGMRPCApps-Common.git
-[submodule "BGMRPCModule/Apps/account"]
-	path = BGMRPCModule/Apps/account
-	url = https://github.com/BlueGhostStudio/BGMRPCApps-Account.git
-[submodule "BGMRPCModule/Apps/cms"]
-	path = BGMRPCModule/Apps/cms
-	url = https://github.com/BlueGhostStudio/BGMRPCApps-CMS.git
 [submodule "BGCMSProject"]
 	path = BGCMSProject
 	url = https://github.com/BlueGhostStudio/BGCMSProject.git
@@ -30,9 +21,6 @@
 [submodule "BG.js"]
 	path = BG.js
 	url = https://github.com/BlueGhostStudio/BG.js.git
-[submodule "BGMRPCModule/Apps/todo"]
-	path = BGMRPCModule/Apps/todo
-	url = https://github.com/BlueGhostStudio/BGMRPCApps-Todo.git
 [submodule "BGMRPCModule/BGMRPCConsole"]
 	path = BGMRPCModule/BGMRPCConsole
 	url = https://github.com/BlueGhostStudio/BGMRPCConsole.git
