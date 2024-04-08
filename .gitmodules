@@ -27,3 +27,6 @@
 [submodule "BGMRPCModule/Apps"]
 	path = BGMRPCModule/Apps
 	url = https://github.com/BlueGhostStudio/BGMRPCApps.git
+[submodule "BGSTDQml"]
+	path = BGSTDQml
+	url = https://github.com/BlueGhostStudio/BGSTDQml.git
